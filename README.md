@@ -17,8 +17,8 @@ This project demonstrates DC motor control using push buttons with an Arduino Un
 6. Jumper Wires
 7. USB Cable
 ## APPLICATIONS:
--Robotics
--Conveyor Belt Systems
--Automatic Door Systems
--Small Automation Projects
--Educational Demonstrations
+- Robotics
+- Conveyor Belt Systems
+- Automatic Door Systems
+- Small Automation Projects
+- Educational Demonstrations
